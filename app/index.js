@@ -1,5 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-import { SafeAreaView, ScrollView, View, Text } from 'react-native';
+import { SafeAreaView, ScrollView } from 'react-native';
 import { Stack } from 'expo-router';
 import { Categories, FeaturedRow, HeaderLeft, Search } from '../components';
 import { UserIcon } from 'react-native-heroicons/outline';
